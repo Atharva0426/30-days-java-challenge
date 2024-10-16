@@ -1,3 +1,6 @@
+//Use of Scanner class 
+//Taking input from User
+
 import java.util.Scanner;
 class Day2{
 public static void main (String args[]){
