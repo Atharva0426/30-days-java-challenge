@@ -1,4 +1,4 @@
-//printing half pyramid
+//Printing Half Pyramid
 import java.util.Scanner;
 class Day4{
 public static void main(String args[]){
