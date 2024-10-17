@@ -1,4 +1,4 @@
-//input output using Scanner class 
+//Input Output using Scanner class 
 
 import java.util.Scanner;
 class Day6{
